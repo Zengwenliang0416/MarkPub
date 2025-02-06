@@ -1,0 +1,64 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environment
+venv/
+env/
+ENV/
+.env
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+.DS_Store
+
+# PyQt
+*.qmlc
+*.jsc
+*.qm
+*.ts
+
+# Project specific
+*.log
+.coverage
+htmlcov/
+.pytest_cache/
+.cursorrules
+
+# Database
+*.db
+*.sqlite3
+
+# Temp files
+*.tmp
+*.bak
+*.swp
+*~
+
+# Distribution
+dist/
+build/
+
+# Local development settings
+local_settings.py 
